@@ -114,9 +114,9 @@ Result:     CORRECT ✓
 
 ---
 
-## Relevance to TinyCowNet / Livestock Monitoring
+##  Live Actions Monitoring
 
-This project is a direct analog to edge AI livestock behavior monitoring systems:
+This project is a direct analog to edge AI behavior monitoring systems:
 
 | Research Requirement | This Project |
 |---|---|
